@@ -5,7 +5,8 @@
 <p align="center"> Olá, é um prazer ter você aqui! 💕. <br><br> Sou atualmente um estudante com um sonho de me tornar um grande programador full-stack, e como dizem, quanto maior o sonho, maior o desafio!</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Quaxinim&theme=radical&mode=weekly" />
+<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Quaxinim&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-omega-lac.vercel.app/api/top-langs/?username=Quaxinim&show_icons=true&theme=radical&layout=compact" />
 </div>
  
  &nbsp;
